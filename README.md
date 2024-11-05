@@ -30,3 +30,10 @@ All visual assets and level design are original.
 Heavily followed tutorial created by Pandemonium for the game's core mechanics.
 Followed tutorial by Brackeys for the main menu.
 Sound assets were taken from Kirby's Adventure :).
+
+
+Notes:
+Changes made from the one-pager include:
+- the removal of parrying in favor of a focus on platforming and magic attacking.
+- omission of the "hover dash" technique" 
+- omission of planned cutscenes and story
